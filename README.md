@@ -1,2 +1,2 @@
 This is an automated parking system. Developed in Arduino and developed by Team Decoder's.
-You can get full idea about required component from circiut diagram.We created a demo video in Bangla Language that can help you and this is the youtube link https://youtu.be/jD7nure_Xag . Thankyou :)
+You can get full idea about required component from circiut diagram.We created a demo video in Bangla Language that can help you and this is the youtube link https://youtu.be/jD7nure_Xag .So, We can develop this project very easily Thankyou :)
